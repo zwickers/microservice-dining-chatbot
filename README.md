@@ -1,1 +1,4 @@
-A dining concierge chatbot built using Service Oriented Architecture
+# SOA Dining Chatbot
+This chatbot gives food recommedations based on your location and cuisine preferences
+
+# Architecture
